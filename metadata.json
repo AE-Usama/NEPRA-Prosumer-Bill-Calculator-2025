@@ -1,0 +1,5 @@
+{
+  "name": "NEPRA Prosumer Bill Calculator 2025",
+  "description": "A dashboard to calculate electricity bills under the new NEPRA (Prosumer) Regulations 2025, featuring Net Billing logic and tariff comparisons.",
+  "requestFramePermissions": []
+}
